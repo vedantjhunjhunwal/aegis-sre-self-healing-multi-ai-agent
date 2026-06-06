@@ -1,0 +1,207 @@
+{
+  "summary": {
+    "runs": 10,
+    "successful_runs": 10,
+    "avg_latency_seconds": 34.307,
+    "p50_latency_seconds": 34.316,
+    "p95_latency_seconds": 34.514,
+    "min_latency_seconds": 34.083,
+    "max_latency_seconds": 34.519,
+    "throughput_workflows_per_minute": 1.75,
+    "manual_sre_baseline_minutes": 30,
+    "automated_avg_minutes": 0.57,
+    "estimated_time_reduction_percent": 98.09
+  },
+  "runs": [
+    {
+      "run_id": "7d084c96",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.31103749999966,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "1adfd065",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.141596500000105,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "db970038",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.51906740000004,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "8e56333e",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.28124479999997,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "b5accd2e",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.327423199999885,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "5b08550c",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.513873500000045,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "22860be1",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.083024600000044,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "0449e04e",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.32014040000013,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "1cc77d5c",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.2085476000002,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    },
+    {
+      "run_id": "e49490d3",
+      "status": "awaiting_human_approval",
+      "duration_seconds": 34.36238920000005,
+      "events_count": 8,
+      "stages": [
+        "observe_alert",
+        "collect_context",
+        "root_cause_analysis",
+        "engineer_patch",
+        "sandbox_unit_tests",
+        "integration_validate",
+        "red_team_audit",
+        "open_pr"
+      ],
+      "unit_tests": "passed",
+      "red_team": "approved",
+      "pr_mode": "local_artifact"
+    }
+  ]
+}
